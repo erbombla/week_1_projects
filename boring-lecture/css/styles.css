@@ -1,0 +1,16 @@
+
+h1 {
+  text-align: center; 
+}
+.intro {
+  font-size: 35px;
+  font-style: oblique;
+  color: #8B4C39;
+  border: 2px solid black;
+}
+
+.displayed {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
