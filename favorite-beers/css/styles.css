@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+img {
+  width: 250px;
+  float: right;
+  border: 2px solid black;
+}
+
+ul {
+  list-style: none;
+}
+
+.sidebar {
+  width: 25%;
+  float: left;
+  background-color: yellow;
+  border: 2px;
+  border-radius: 5%;
+  padding: 20px;
+}
+
+.column {
+  width: 400px;
+  float: left;
+  text-align: center;
+  font-size: 22px;
+}
+
+.text-center {
+  font-weight: bold;
+  text-align: center;
+}
