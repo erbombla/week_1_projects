@@ -1,0 +1,39 @@
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: #dbdbdb;
+  margin: 12px;
+  border: 2px solid black
+  padding: 6px;
+}
+
+.column1 {
+  width: 30%;
+  float: left;
+  background-color: #CD5B45;
+}
+
+.column2 {
+  width: 30%;
+  float: left;
+  background-color: #B3432B;
+}
+
+.column3 {
+  width: 30%;
+  float: left;
+  background-color: #FF3300;
+}
+
+img {
+  float: right;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+}
+
+body {
+  background-color: #696969;
+  font-family: sans-serif;
+}
